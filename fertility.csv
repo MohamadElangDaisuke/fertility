@@ -1,0 +1,211 @@
+Season;Age;Childish diseases;Accident or serious trauma;Surgical intervention;High fevers in the last year;Frequency of alcohol consumption;Smoking habit;Number of hours spent sitting per day;Diagnosis
+fall;28;yes;yes;yes;more than 3 months ago;hardly ever or never;never;11;Normal
+winter;35;yes;yes;yes;more than 3 months ago;once a week;never;10;Altered
+fall;31;yes;no;yes;more than 3 months ago;several times a day;occasional;5;Altered
+spring;28;yes;yes;no;more than 3 months ago;every day;daily;11;Normal
+winter;33;yes;yes;yes;no;once a week;occasional;3;Normal
+winter;28;yes;yes;no;no;hardly ever or never;occasional;6;Normal
+winter;29;no;yes;yes;more than 3 months ago;once a week;never;5;Altered
+winter;27;yes;no;no;no;once a week;never;8;Normal
+summer;30;yes;yes;yes;less than 3 months ago;once a week;never;5;Altered
+fall;30;yes;yes;yes;more than 3 months ago;once a week;daily;11;Altered
+spring;28;yes;no;no;more than 3 months ago;hardly ever or never;never;11;Normal
+winter;28;yes;no;no;more than 3 months ago;hardly ever or never;never;8;Normal
+spring;32;yes;yes;yes;more than 3 months ago;several times a week;never;3;Normal
+fall;33;no;no;yes;less than 3 months ago;hardly ever or never;occasional;9;Altered
+fall;30;no;no;yes;more than 3 months ago;once a week;never;5;Normal
+fall;30;no;no;yes;no;hardly ever or never;occasional;10;Altered
+winter;30;yes;no;no;no;several times a week;never;12;Altered
+fall;28;yes;no;no;no;several times a week;occasional;9;Normal
+spring;34;yes;yes;no;more than 3 months ago;several times a week;daily;6;Normal
+spring;27;yes;yes;no;less than 3 months ago;once a week;occasional;16;Altered
+winter;30;yes;yes;yes;more than 3 months ago;hardly ever or never;never;6;Normal
+spring;35;yes;no;no;no;several times a week;never;3;Normal
+fall;27;yes;no;no;no;hardly ever or never;daily;5;Altered
+summer;31;yes;no;no;less than 3 months ago;hardly ever or never;daily;13;Altered
+fall;32;no;yes;no;no;hardly ever or never;never;13;Altered
+winter;29;yes;yes;yes;more than 3 months ago;several times a week;never;7;Normal
+spring;30;yes;no;yes;more than 3 months ago;once a week;never;8;Normal
+winter;28;yes;yes;yes;more than 3 months ago;once a week;daily;9;Normal
+fall;30;yes;no;no;more than 3 months ago;once a week;daily;7;Altered
+summer;30;yes;yes;yes;more than 3 months ago;several times a week;never;8;Altered
+spring;35;yes;no;yes;more than 3 months ago;once a week;daily;6;Altered
+spring;27;yes;no;yes;less than 3 months ago;once a week;never;9;Normal
+summer;33;yes;yes;no;more than 3 months ago;once a week;occasional;12;Altered
+fall;30;yes;yes;no;no;several times a day;never;7;Altered
+winter;30;yes;no;yes;more than 3 months ago;hardly ever or never;occasional;3;Normal
+spring;32;yes;yes;yes;no;once a week;daily;5;Normal
+spring;36;yes;yes;yes;more than 3 months ago;several times a week;never;7;Normal
+winter;30;yes;no;no;no;hardly ever or never;daily;5;Normal
+spring;28;no;no;no;no;several times a week;occasional;12;Altered
+spring;31;yes;yes;yes;more than 3 months ago;several times a week;daily;4;Altered
+winter;31;no;no;yes;no;several times a day;daily;4;Altered
+fall;30;yes;no;no;more than 3 months ago;once a week;daily;7;Altered
+winter;28;yes;yes;no;more than 3 months ago;once a week;daily;9;Normal
+winter;28;yes;no;no;no;once a week;never;6;Normal
+spring;30;yes;no;no;no;once a week;daily;13;Altered
+winter;33;no;no;no;less than 3 months ago;hardly ever or never;never;10;Altered
+fall;30;no;no;yes;more than 3 months ago;several times a week;occasional;9;Altered
+summer;29;no;yes;yes;less than 3 months ago;several times a week;daily;10;Altered
+fall;30;yes;yes;no;no;hardly ever or never;daily;14;Altered
+summer;28;yes;no;yes;no;once a week;never;7;Altered
+summer;33;no;no;no;less than 3 months ago;hardly ever or never;occasional;9;Altered
+fall;33;yes;yes;no;more than 3 months ago;hardly ever or never;daily;9;Normal
+spring;32;yes;yes;no;more than 3 months ago;several times a day;never;11;Altered
+winter;35;yes;no;no;more than 3 months ago;once a week;daily;6;Altered
+spring;32;yes;no;no;no;hardly ever or never;daily;1;Altered
+fall;32;yes;yes;no;no;several times a week;never;7;Altered
+winter;32;yes;yes;no;no;several times a week;never;7;Normal
+summer;30;no;no;yes;no;hardly ever or never;never;6;Altered
+fall;31;yes;yes;no;less than 3 months ago;several times a day;occasional;11;Altered
+spring;30;yes;no;yes;less than 3 months ago;hardly ever or never;occasional;11;Altered
+fall;34;no;no;yes;less than 3 months ago;once a week;never;6;Altered
+fall;28;no;no;no;no;once a week;occasional;18;Normal
+spring;28;yes;yes;no;more than 3 months ago;once a week;occasional;9;Normal
+summer;32;yes;no;yes;more than 3 months ago;once a week;never;8;Altered
+winter;32;yes;no;yes;no;several times a week;occasional;10;Normal
+fall;30;yes;no;yes;more than 3 months ago;once a week;never;5;Altered
+summer;29;yes;yes;yes;no;several times a week;daily;4;Altered
+winter;29;no;yes;yes;less than 3 months ago;hardly ever or never;never;5;Altered
+fall;30;no;no;yes;more than 3 months ago;once a week;never;5;Normal
+fall;28;yes;no;no;more than 3 months ago;once a week;occasional;14;Altered
+winter;34;yes;no;no;no;hardly ever or never;daily;7;Altered
+winter;30;no;yes;yes;more than 3 months ago;several times a week;never;3;Normal
+winter;32;yes;no;yes;more than 3 months ago;hardly ever or never;never;5;Normal
+spring;30;no;no;no;less than 3 months ago;once a week;never;8;Normal
+fall;28;yes;no;no;more than 3 months ago;several times a week;daily;9;Normal
+winter;32;yes;no;yes;no;hardly ever or never;daily;5;Normal
+winter;28;yes;no;yes;less than 3 months ago;once a week;daily;9;Altered
+summer;32;yes;no;yes;more than 3 months ago;once a week;never;8;Altered
+spring;35;yes;no;yes;more than 3 months ago;once a week;daily;6;Altered
+spring;30;yes;yes;yes;more than 3 months ago;once a week;never;6;Normal
+winter;29;yes;yes;no;more than 3 months ago;once a week;occasional;11;Altered
+spring;30;no;yes;no;no;once a week;never;6;Altered
+winter;28;no;yes;no;no;several times a week;daily;12;Altered
+summer;32;no;yes;yes;less than 3 months ago;hardly ever or never;occasional;5;Altered
+fall;27;yes;yes;yes;more than 3 months ago;once a week;daily;13;Altered
+spring;33;yes;yes;yes;no;hardly ever or never;never;5;Normal
+spring;27;no;no;no;more than 3 months ago;several times a day;occasional;8;Altered
+fall;34;no;yes;yes;less than 3 months ago;hardly ever or never;never;10;Altered
+fall;28;yes;no;yes;more than 3 months ago;hardly ever or never;never;11;Normal
+winter;28;yes;no;no;no;once a week;never;11;Normal
+fall;29;yes;no;yes;less than 3 months ago;hardly ever or never;never;6;Altered
+spring;28;yes;yes;yes;less than 3 months ago;once a week;occasional;3;Normal
+fall;30;yes;yes;no;more than 3 months ago;once a week;never;5;Normal
+spring;28;yes;yes;no;no;hardly ever or never;never;14;Normal
+winter;27;no;no;no;no;several times a day;daily;8;Altered
+fall;31;no;yes;yes;less than 3 months ago;hardly ever or never;daily;5;Altered
+spring;27;yes;no;no;no;once a week;occasional;6;Normal
+spring;33;yes;yes;yes;more than 3 months ago;hardly ever or never;never;6;Normal
+fall;28;yes;no;no;more than 3 months ago;hardly ever or never;never;8;Normal
+winter;28;yes;yes;yes;no;once a week;occasional;11;Altered
+spring;33;yes;no;no;less than 3 months ago;hardly ever or never;daily;12;Altered
+fall;29;yes;no;yes;more than 3 months ago;hardly ever or never;never;11;Normal
+winter;28;yes;no;no;no;hardly ever or never;never;9;Normal
+winter;32;yes;no;yes;more than 3 months ago;hardly ever or never;never;5;Normal
+fall;30;no;no;yes;more than 3 months ago;several times a week;occasional;9;Altered
+fall;35;no;yes;no;less than 3 months ago;hardly ever or never;occasional;8;Altered
+fall;32;yes;yes;no;no;several times a week;never;7;Altered
+spring;31;yes;yes;no;less than 3 months ago;once a week;occasional;10;Altered
+fall;29;yes;yes;yes;more than 3 months ago;once a week;daily;11;Altered
+winter;30;yes;yes;yes;more than 3 months ago;once a week;occasional;9;Altered
+summer;30;yes;yes;yes;less than 3 months ago;several times a week;daily;11;Altered
+winter;28;yes;no;no;more than 3 months ago;hardly ever or never;never;8;Normal
+summer;30;yes;no;no;no;hardly ever or never;never;6;Normal
+spring;30;yes;no;yes;more than 3 months ago;once a week;occasional;9;Normal
+winter;30;yes;no;no;more than 3 months ago;hardly ever or never;never;6;Normal
+fall;35;no;no;yes;less than 3 months ago;several times a day;never;7;Altered
+fall;29;yes;no;no;more than 3 months ago;hardly ever or never;never;5;Normal
+summer;34;yes;no;no;more than 3 months ago;several times a day;never;14;Altered
+spring;27;yes;yes;no;less than 3 months ago;once a week;occasional;16;Altered
+winter;28;yes;no;yes;more than 3 months ago;hardly ever or never;never;11;Normal
+summer;31;yes;no;no;no;once a week;daily;10;Altered
+fall;29;yes;no;no;more than 3 months ago;hardly ever or never;never;5;Normal
+summer;29;yes;yes;yes;no;hardly ever or never;daily;6;Altered
+winter;36;yes;no;yes;no;several times a week;occasional;5;Normal
+spring;28;yes;yes;no;more than 3 months ago;once a week;occasional;14;Normal
+fall;32;yes;no;no;more than 3 months ago;several times a week;occasional;5;Normal
+fall;30;yes;no;yes;more than 3 months ago;several times a week;never;7;Altered
+spring;29;no;yes;yes;less than 3 months ago;hardly ever or never;occasional;5;Altered
+spring;31;yes;yes;no;more than 3 months ago;several times a week;daily;3;Normal
+summer;30;yes;yes;no;more than 3 months ago;several times a day;daily;11;Altered
+spring;30;yes;no;yes;more than 3 months ago;once a week;occasional;9;Normal
+spring;29;yes;no;yes;more than 3 months ago;hardly ever or never;never;11;Normal
+spring;35;no;no;yes;no;once a week;daily;7;Altered
+fall;28;yes;yes;yes;more than 3 months ago;once a week;occasional;8;Normal
+winter;34;yes;no;no;less than 3 months ago;hardly ever or never;never;7;Altered
+spring;32;no;yes;yes;more than 3 months ago;hardly ever or never;never;7;Normal
+fall;30;yes;no;no;more than 3 months ago;hardly ever or never;never;5;Normal
+fall;29;no;yes;no;more than 3 months ago;once a week;daily;12;Altered
+spring;30;yes;yes;yes;less than 3 months ago;hardly ever or never;never;14;Normal
+fall;30;yes;no;yes;less than 3 months ago;hardly ever or never;never;8;Altered
+fall;32;yes;yes;yes;more than 3 months ago;once a week;daily;5;Normal
+winter;30;yes;yes;no;no;once a week;daily;10;Altered
+spring;28;yes;no;no;less than 3 months ago;hardly ever or never;occasional;9;Altered
+spring;32;no;yes;yes;more than 3 months ago;hardly ever or never;never;7;Normal
+winter;32;yes;no;yes;less than 3 months ago;hardly ever or never;occasional;6;Altered
+fall;33;yes;no;no;more than 3 months ago;hardly ever or never;never;7;Normal
+winter;28;yes;no;no;no;hardly ever or never;occasional;8;Normal
+spring;32;yes;yes;yes;more than 3 months ago;several times a week;daily;5;Normal
+spring;30;yes;yes;no;more than 3 months ago;once a week;never;9;Altered
+fall;28;yes;no;yes;less than 3 months ago;hardly ever or never;daily;7;Altered
+spring;27;yes;yes;no;less than 3 months ago;once a week;occasional;16;Normal
+fall;32;yes;yes;yes;more than 3 months ago;hardly ever or never;daily;5;Normal
+summer;34;no;yes;yes;no;several times a week;occasional;8;Altered
+spring;33;yes;yes;yes;no;once a week;never;7;Normal
+winter;29;yes;no;no;less than 3 months ago;once a week;daily;9;Altered
+spring;35;yes;yes;no;no;hardly ever or never;never;11;Normal
+spring;29;yes;yes;yes;no;once a week;daily;10;Altered
+fall;30;yes;yes;no;less than 3 months ago;once a week;occasional;6;Normal
+summer;32;yes;yes;yes;more than 3 months ago;once a week;occasional;9;Altered
+spring;27;yes;no;no;more than 3 months ago;hardly ever or never;never;9;Normal
+fall;30;yes;no;no;no;several times a day;occasional;5;Altered
+winter;28;yes;yes;no;no;once a week;never;7;Normal
+fall;32;yes;no;no;no;several times a week;never;6;Altered
+fall;30;yes;no;yes;more than 3 months ago;once a week;never;5;Altered
+spring;33;yes;no;yes;less than 3 months ago;hardly ever or never;daily;15;Altered
+winter;33;yes;yes;no;less than 3 months ago;hardly ever or never;occasional;14;Altered
+spring;27;yes;no;no;more than 3 months ago;hardly ever or never;never;9;Normal
+summer;32;yes;no;no;more than 3 months ago;hardly ever or never;daily;1;Normal
+winter;27;yes;yes;yes;no;several times a week;occasional;7;Altered
+fall;32;yes;yes;yes;more than 3 months ago;several times a week;occasional;2;Normal
+fall;30;no;no;no;more than 3 months ago;hardly ever or never;never;11;Normal
+spring;28;yes;no;yes;more than 3 months ago;once a week;daily;3;Normal
+fall;28;yes;no;no;less than 3 months ago;several times a week;occasional;8;Altered
+winter;32;yes;yes;no;no;several times a week;never;7;Normal
+fall;28;no;no;yes;more than 3 months ago;hardly ever or never;never;3;Normal
+spring;33;yes;yes;yes;more than 3 months ago;hardly ever or never;daily;7;Normal
+spring;28;yes;yes;no;more than 3 months ago;once a week;occasional;9;Normal
+fall;32;yes;yes;yes;more than 3 months ago;several times a week;occasional;2;Normal
+summer;32;yes;yes;no;more than 3 months ago;once a week;never;7;Normal
+winter;28;yes;no;yes;less than 3 months ago;once a week;daily;9;Normal
+fall;35;yes;yes;yes;more than 3 months ago;several times a day;never;5;Normal
+spring;30;yes;yes;no;more than 3 months ago;once a week;never;9;Altered
+summer;33;no;no;no;less than 3 months ago;once a week;occasional;12;Altered
+summer;34;no;yes;no;more than 3 months ago;once a week;never;6;Altered
+summer;28;no;no;no;less than 3 months ago;several times a day;daily;5;Altered
+winter;30;no;no;yes;more than 3 months ago;several times a week;occasional;9;Altered
+spring;32;yes;no;no;no;hardly ever or never;daily;1;Altered
+fall;33;yes;yes;no;no;once a week;occasional;9;Altered
+spring;30;no;yes;yes;more than 3 months ago;once a week;occasional;16;Normal
+winter;30;no;yes;no;no;several times a week;occasional;14;Altered
+fall;30;yes;no;yes;more than 3 months ago;several times a week;never;7;Altered
+spring;34;yes;yes;yes;no;once a week;never;10;Altered
+summer;35;yes;no;no;no;hardly ever or never;never;7;Altered
+spring;31;yes;no;yes;less than 3 months ago;several times a week;occasional;10;Altered
+fall;30;yes;no;yes;less than 3 months ago;hardly ever or never;never;8;Altered
+fall;30;no;no;yes;more than 3 months ago;once a week;never;5;Normal
+winter;31;yes;yes;yes;no;once a week;never;3;Normal
+fall;29;yes;yes;yes;less than 3 months ago;once a week;never;10;Altered
+fall;30;yes;no;yes;more than 3 months ago;hardly ever or never;never;7;Normal
+summer;27;yes;no;no;no;hardly ever or never;occasional;8;Altered
+winter;30;yes;no;no;more than 3 months ago;hardly ever or never;never;9;Normal
+spring;27;yes;no;no;no;hardly ever or never;never;8;Normal
+winter;32;yes;no;yes;less than 3 months ago;hardly ever or never;daily;8;Altered
+fall;28;no;no;no;no;once a week;daily;8;Normal
+summer;30;yes;no;no;no;hardly ever or never;never;6;Normal
+summer;31;yes;no;yes;no;hardly ever or never;occasional;13;Altered
+spring;28;no;no;yes;more than 3 months ago;hardly ever or never;never;10;Normal
+winter;29;yes;no;no;more than 3 months ago;once a week;occasional;9;Normal
+winter;30;no;no;yes;more than 3 months ago;several times a week;occasional;9;Altered
+winter;31;yes;yes;yes;no;once a week;never;3;Normal
